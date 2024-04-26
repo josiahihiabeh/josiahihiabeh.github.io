@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+# My name is Jodiah
 
 You can use the [editor on GitHub](https://github.com/josiahihiabeh/josiahihiabeh.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
